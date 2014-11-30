@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="TouristApp_V3.View.OrderPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TouristApp_V3.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:myView="using:TouristApp_V3.ViewModel"
+    mc:Ignorable="d">
+
+
+    <Page.DataContext>
+        <myView:OrderViewModel></myView:OrderViewModel>
+    </Page.DataContext>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Grid.ColumnSpan= "3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="120"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="1">
+                    <Grid>
+                        <TextBlock Text="Item" FontFamily="Segoe UI" Margin="5,0,0,0" FontSize="14.667"/>
+                        <TextBlock Text="Quantity" FontFamily="Segoe UI" Margin="400,0,0,0" FontSize="14.667"/>
+                        <TextBlock Text="Price" FontFamily="Segoe UI" Margin="500,0,0,0" FontSize="14.667"/>
+                    </Grid>
+                    <ListView SelectionMode="None" Margin="0,0,0,0" Name="OrderListView" ItemsSource="{Binding OrderItems}" Grid.Column="1" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Width="736">
+                                    <TextBlock Text="{Binding Name}" Margin="0,0,0,0"/>
+                                    <TextBlock Text="{Binding Quantity}" Margin="400,0,0,0"/>
+                                    <TextBlock Text="{Binding Price}" Margin="500,0,0,0"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <Grid>
+                        <TextBlock Text="Total" Margin="5,0,0,0" FontFamily="Segoe UI" FontSize="14.667"/>
+                        <TextBlock Text="{Binding Total.String}" Margin="505,0,0,0" FontFamily="Segoe UI" FontSize="14.667"/>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+            <Button x:ConnectionId='1' Name="backButton" Margin="39,59,39,0" Command="{Binding GoBack}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"                           />
+
+            <TextBlock x:Name="pageTitle" Text="Order overview" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+        </Grid>
+
+    </Grid>
+</Page>
+

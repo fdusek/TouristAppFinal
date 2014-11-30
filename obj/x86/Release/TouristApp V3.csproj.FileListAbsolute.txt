@@ -1,0 +1,53 @@
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\App.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\View\AddCategoryPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\View\AddItemPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\View\MainPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\View\OrderPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\View\TableSettings.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\TouristApp V3.xr.xml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\TouristApp V3.exe
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\TouristApp V3.pdb
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\resources.pri
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\AppxManifest.xml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\bin\x86\Release\TouristApp V3.build.appxrecipe
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\App.g.i.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\App.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddCategoryPage.g.i.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddCategoryPage.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddItemPage.g.i.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddItemPage.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\MainPage.g.i.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\MainPage.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\OrderPage.g.i.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\OrderPage.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\TableSettings.g.i.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\TableSettings.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\App.xaml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddCategoryPage.xaml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\OrderPage.xaml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\TableSettings.xaml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\App.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddCategoryPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\OrderPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\TableSettings.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddItemPage.xaml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\MainPage.xaml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\AddItemPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\View\MainPage.xbf
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\TouristApp V3.exe
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\TouristApp V3.pdb
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\TouristApp V3.csproj.GenerateResource.Cache
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\priconfig.xml
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\layout.resfiles
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\resources.resfiles
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\pri.resfiles
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\qualifiers.txt
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\obj\x86\Release\ProjectArchitectures.txt

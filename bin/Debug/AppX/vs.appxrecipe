@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FILIP-PC</Machine>
+    <WindowsUser>Filip</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>15a1548d-ad4c-4ce2-9ff1-b8051b9c92eb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A3A27B9C871419DF5425190AF7F4F64122D1E34E268F287B2940269C8349E7B8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15a1548d-ad4c-4ce2-9ff1-b8051b9c92eb_1.0.0.0_neutral__5953vnxg3cd5m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15a1548d-ad4c-4ce2-9ff1-b8051b9c92eb_5953vnxg3cd5m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15a1548d-ad4c-4ce2-9ff1-b8051b9c92eb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Filip</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T19:47:19.862</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\TouristApp V3.exe">
+      <PackagePath>TouristApp V3.exe</PackagePath>
+      <Modified>2014-11-29T19:47:19.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink1.jpg">
+      <PackagePath>Assets\Drink1.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink10.jpg">
+      <PackagePath>Assets\Drink10.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink11.jpg">
+      <PackagePath>Assets\Drink11.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink13.jpg">
+      <PackagePath>Assets\Drink13.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink14.jpg">
+      <PackagePath>Assets\Drink14.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink2.jpg">
+      <PackagePath>Assets\Drink2.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink3.jpg">
+      <PackagePath>Assets\Drink3.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink4.jpg">
+      <PackagePath>Assets\Drink4.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink5.jpg">
+      <PackagePath>Assets\Drink5.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink6.JPG">
+      <PackagePath>Assets\Drink6.JPG</PackagePath>
+      <Modified>2014-11-15T18:16:03.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink7.jpg">
+      <PackagePath>Assets\Drink7.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink8.jpg">
+      <PackagePath>Assets\Drink8.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink9.jpg">
+      <PackagePath>Assets\Drink9.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food1.jpg">
+      <PackagePath>Assets\Food1.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food10.jpg">
+      <PackagePath>Assets\Food10.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food11.jpg">
+      <PackagePath>Assets\Food11.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food12.jpg">
+      <PackagePath>Assets\Food12.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food13.jpg">
+      <PackagePath>Assets\Food13.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food14.jpg">
+      <PackagePath>Assets\Food14.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food15.jpg">
+      <PackagePath>Assets\Food15.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food16.jpg">
+      <PackagePath>Assets\Food16.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food17.jpg">
+      <PackagePath>Assets\Food17.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food18.JPG">
+      <PackagePath>Assets\Food18.JPG</PackagePath>
+      <Modified>2014-11-15T18:16:02.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food19.jpg">
+      <PackagePath>Assets\Food19.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food2.jpg">
+      <PackagePath>Assets\Food2.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food20.jpg">
+      <PackagePath>Assets\Food20.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food21.jpg">
+      <PackagePath>Assets\Food21.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food22.JPG">
+      <PackagePath>Assets\Food22.JPG</PackagePath>
+      <Modified>2014-11-15T18:16:02.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food23.jpg">
+      <PackagePath>Assets\Food23.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food3.jpg">
+      <PackagePath>Assets\Food3.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food4.jpg">
+      <PackagePath>Assets\Food4.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food5.jpg">
+      <PackagePath>Assets\Food5.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\food6.jpg">
+      <PackagePath>Assets\food6.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:03.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\food7.jpg">
+      <PackagePath>Assets\food7.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food8.jpg">
+      <PackagePath>Assets\Food8.jpg</PackagePath>
+      <Modified>2014-11-15T18:16:02.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Food9.JPG">
+      <PackagePath>Assets\Food9.JPG</PackagePath>
+      <Modified>2014-11-15T18:16:02.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Drink12.jpeg">
+      <PackagePath>Assets\Drink12.jpeg</PackagePath>
+      <Modified>2014-11-15T18:16:03.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-27T11:15:01.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-11-27T11:15:01.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\View\OrderPage.xbf">
+      <PackagePath>View\OrderPage.xbf</PackagePath>
+      <Modified>2014-11-27T16:40:02.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\View\TableSettings.xbf">
+      <PackagePath>View\TableSettings.xbf</PackagePath>
+      <Modified>2014-11-27T11:15:01.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\TouristApp V3.xr.xml">
+      <PackagePath>TouristApp V3.xr.xml</PackagePath>
+      <Modified>2014-11-27T11:15:00.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Filip\Desktop\Tourapp\TouristApp V3\TouristApp V3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-29T19:47:19.635</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
