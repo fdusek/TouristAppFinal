@@ -38,7 +38,7 @@ namespace TouristApp_V3.ViewModel
         {
             if (_selectedItem != null)
             {
-                _selectedItem.OrderQuantity -= 1;
+                _selectedItem.OrderQuantity -= 5;
                 RaisePropertyChangedEvent("SelectedItem");
             }
         }

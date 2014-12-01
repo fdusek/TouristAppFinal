@@ -1,0 +1,2 @@
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\TouristApp V3.csproj;x86
+C:\Users\Filip\Downloads\TouristApp-master\TouristApp-master\TouristApp V3\UnitTestLibrary1\UnitTestLibrary1.csproj;x86
